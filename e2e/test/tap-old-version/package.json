@@ -21,6 +21,6 @@
     "@stryker-mutator/util": "../../../packages/util"
   },
   "devDependencies": {
-    "tap": "12.7.0"
+    "tap": "21.1.0"
   }
 }
