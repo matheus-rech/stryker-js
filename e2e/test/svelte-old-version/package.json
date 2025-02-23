@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "jest": "29.7.0",
-    "svelte": "3.30",
+    "svelte": "5.20",
     "svelte-jester": "3.0.0"
   }
 }
