@@ -20,6 +20,8 @@
     ],
     "lib": [
       "es2022"
-    ]
+    ],
+    "noUnusedLocals": false,
+    "noUnusedParameters": false
   }
 }
